@@ -9,7 +9,7 @@ This repository is the official implementation of the paper: **Unsupervised Anom
 The full code and pretrained weights will be released soon. We are currently organizing the code to make it user-friendly.
 
 ## 🖼️ Method Overview
-![Method Overview](Graphical Abstract.png)
+![Method Overview](Framework.png)
 
 ##  citation
 If you find this work useful for your research, please cite our paper:
